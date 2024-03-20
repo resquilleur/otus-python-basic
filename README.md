@@ -15,4 +15,5 @@
 | #   | Наименование темы | Отправил | Принято | README                             |
 |-----|-------------------|----------|---------|------------------------------------|
 | 1   | Git, shell        | +        | +       | [README.md](homework_01/README.md) |
-| 2   | Классы и модули   | +        | -       | [README.md](homework_02/README.md) |  |
+| 2   | Классы и модули   | +        | +       | [README.md](homework_02/README.md) |
+| 3   | Docker контейнер c веб-приложением   | +        | -       | [README.md](homework_03/README.md) |
