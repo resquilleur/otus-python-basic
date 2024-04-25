@@ -26,7 +26,7 @@ def about():
     text = """
     With homework 05 web app on Flask
     """
-    return render_template("about.html"), text
+    return render_template("about.html")
 
 
 if __name__ == "__main__":
