@@ -23,9 +23,6 @@ def index():
 
 @app.route("/about/", endpoint="about")
 def about():
-    text = """
-    With homework 05 web app on Flask
-    """
     return render_template("about.html")
 
 
